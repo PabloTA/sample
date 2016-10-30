@@ -55,3 +55,5 @@ The courses comprising the Data Science Specialization are:
 ![Course Dependency](dst_courses.png)
 
 *Figure 1 Course dependency diagram*
+
+ "Git is easy. Git is fun. Thanks Linus!" 
